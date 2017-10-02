@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Examples/Timer/Timer.unity
+- path: Assets/Examples/RestClient/Client/Assets/main.unity
   isLoaded: 1
   isActive: 1
