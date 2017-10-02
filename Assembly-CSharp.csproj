@@ -58,6 +58,9 @@
      <Compile Include="Assets\Examples\InstanciateDestroy\Scripts\FlowerFactory.cs" />
      <Compile Include="Assets\Examples\KeyBoard\Scripts\KeyBoard.cs" />
      <Compile Include="Assets\Examples\SceneManager\Assets\Scripts\Manager.cs" />
+     <Compile Include="Assets\Examples\Timer\Scripts\Flower.cs" />
+     <Compile Include="Assets\Examples\Timer\Scripts\FlowerFactory.cs" />
+     <Compile Include="Assets\Examples\Timer\Scripts\TimerScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
