@@ -54,6 +54,8 @@
      <Compile Include="Assets\Examples\Audio\Scripts\Audios.cs" />
      <Compile Include="Assets\Examples\ChangeImage\Assets\Scripts\Foco.cs" />
      <Compile Include="Assets\Examples\Clicker\Scripts\Click.cs" />
+     <Compile Include="Assets\Examples\InstanciateDestroy\Scripts\Flower.cs" />
+     <Compile Include="Assets\Examples\InstanciateDestroy\Scripts\FlowerFactory.cs" />
      <Compile Include="Assets\Examples\KeyBoard\Scripts\KeyBoard.cs" />
      <Compile Include="Assets\Examples\SceneManager\Assets\Scripts\Manager.cs" />
  <Reference Include="UnityEngine.UI">
