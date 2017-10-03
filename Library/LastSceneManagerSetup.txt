@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Examples/RestClient/Client/Assets/main.unity
+- path: Assets/Examples/Colisiones/Colisiones.unity
   isLoaded: 1
   isActive: 1
