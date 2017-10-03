@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Examples/UI/UI.unity
+- path: Assets/Examples/Memotest/Memotest.unity
   isLoaded: 1
   isActive: 1

@@ -58,6 +58,8 @@
      <Compile Include="Assets\Examples\InstanciateDestroy\Scripts\Flower.cs" />
      <Compile Include="Assets\Examples\InstanciateDestroy\Scripts\FlowerFactory.cs" />
      <Compile Include="Assets\Examples\KeyBoard\Scripts\KeyBoard.cs" />
+     <Compile Include="Assets\Examples\Memotest\Scripts\AspectUtility.cs" />
+     <Compile Include="Assets\Examples\Memotest\Scripts\MemotestFactory.cs" />
      <Compile Include="Assets\Examples\RestClient\Client\Assets\RestConect.cs" />
      <Compile Include="Assets\Examples\RestClient\Client\Assets\RESTFactory.cs" />
      <Compile Include="Assets\Examples\SceneManager\Assets\Scripts\Manager.cs" />
