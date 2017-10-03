@@ -295,7 +295,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1551970042954076, guid: 5fa516456a488f74c91e6bf0435255cc, type: 2}
       propertyPath: m_Name
-      value: ColitionBody (1)
+      value: OsoPolar
       objectReference: {fileID: 0}
     - target: {fileID: 61803525408707170, guid: 5fa516456a488f74c91e6bf0435255cc,
         type: 2}
@@ -488,6 +488,10 @@ Prefab:
         type: 2}
       propertyPath: m_IsTrigger
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1551970042954076, guid: 5fa516456a488f74c91e6bf0435255cc, type: 2}
+      propertyPath: m_Name
+      value: Alf
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5fa516456a488f74c91e6bf0435255cc, type: 2}
@@ -726,7 +730,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1551970042954076, guid: 5fa516456a488f74c91e6bf0435255cc, type: 2}
       propertyPath: m_Name
-      value: ColitionBody (2)
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 212139194737365258, guid: 5fa516456a488f74c91e6bf0435255cc,
         type: 2}
@@ -787,7 +791,7 @@ Prefab:
     - target: {fileID: 61803525408707170, guid: 5fa516456a488f74c91e6bf0435255cc,
         type: 2}
       propertyPath: m_IsTrigger
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 50078962957399558, guid: 5fa516456a488f74c91e6bf0435255cc,
         type: 2}

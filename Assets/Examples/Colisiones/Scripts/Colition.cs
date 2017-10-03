@@ -42,13 +42,8 @@ public class Colition : MonoBehaviour {
         }
     }
 
-    //void OnCollisionEnter(Collision collision)
-    //{
-    //    Debug.Log(collision);
-    //}
-
-    void OnTriggerEnter(Collider other)
+    void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log(other);
+        Debug.Log(other.name);
     }
 }

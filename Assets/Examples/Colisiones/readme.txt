@@ -1,0 +1,2 @@
+En el prefab hay que agregar en componentes de fisica el colider(activar el trigger para los elementos contra los que queres detectar colision)
+y el rigidbody 2D, en el codigo hay un metodo propio del framework llamado OnTriggerEnter2D que recibe el objeto con el que colisiono.
